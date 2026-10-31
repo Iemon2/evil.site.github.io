@@ -1,0 +1,1164 @@
+{
+    "Mook": {
+        "Artist": "Mook",
+        "Cover": "https://f4.bcbits.com/img/a0779274429_2.jpg",
+        "Date": "2011",
+        "Rating": 100,
+        "Link": "https://mook1.bandcamp.com/album/mook"
+    },
+    "att.": {
+        "Artist": "Young Miko",
+        "Cover": "https://images.genius.com/a3591ad4173483aed23da1b911689c1b.1000x1000x1.png",
+        "Date": "2024",
+        "Rating": 80,
+        "Link": "https://open.spotify.com/album/1yjQhgZzBmfdS0CTj6xQ2h"
+    },
+    "TRAP KITTY": {
+        "Artist": "Young Miko",
+        "Cover": "https://is4-ssl.mzstatic.com/image/thumb/Music113/v4/2e/fd/7d/2efd7d51-4e97-74c4-9390-14900f522316/23UMGIM01207.rgb.jpg/1200x1200bf-60.jpg",
+        "Date": "2022",
+        "Rating": 68,
+        "Link": "https://open.spotify.com/album/6Pd4PYQpNXE7z3Scyfv0AV"
+    },
+    "Beach Episode": {
+        "Artist": "Atomic Guava",
+        "Cover": "https://f4.bcbits.com/img/a3944913140_2.jpg",
+        "Date": "2024",
+        "Rating": 98,
+        "Link": "https://atomicguava.bandcamp.com/album/beach-episode"
+    },
+    "Four Songs 2022": {
+        "Artist": "Kitchen",
+        "Cover": "https://f4.bcbits.com/img/a2108850680_2.jpg",
+        "Date": "2022",
+        "Rating": -1,
+        "Link": "https://okwhatever.bandcamp.com/album/four-songs-2022"
+    },
+    "Birds In The Ground": {
+        "Artist": "Eiafuawn",
+        "Cover": "https://f4.bcbits.com/img/a3494090326_2.jpg",
+        "Date": "2022",
+        "Rating": -1,
+        "Link": "https://dusternumero.bandcamp.com/album/birds-in-the-ground"
+    },
+    "I Need to Start a Garden": {
+        "Artist": "Haley Heynderickx",
+        "Cover": "https://f4.bcbits.com/img/a2722198111_2.jpg",
+        "Date": "2018",
+        "Rating": 89,
+        "Link": "https://haleyheynderickx.bandcamp.com/album/i-need-to-start-a-garden"
+    },
+    "Hot Flashes": {
+        "Artist": "Whirlybird",
+        "Cover": "https://f4.bcbits.com/img/a2771528157_2.jpg",
+        "Date": "2019",
+        "Rating": 68,
+        "Link": "https://whirly-bird.bandcamp.com/album/hot-flashes"
+    },
+    "Loaded": {
+        "Artist": "The Velvet Underground",
+        "Cover": "https://t2.genius.com/unsafe/300x300/https%3A%2F%2Fimages.genius.com%2F5acb63240760bd1bee3223d182c5877a.1000x1000x1.png",
+        "Date": "1970",
+        "Rating": 100,
+        "Link": "https://genius.com/albums/The-velvet-underground/Loaded"
+    },
+    "Birdie and Goose": {
+        "Artist": "The Wildwoods",
+        "Cover": "https://f4.bcbits.com/img/a2657784182_2.jpg",
+        "Date": "2017",
+        "Rating": 70,
+        "Link": "https://thewildwoods.bandcamp.com/album/birdie-and-goose"
+    },
+    "Sweet Nostalgia": {
+        "Artist": "",
+        "Cover": "",
+        "Date": "",
+        "Rating": -1,
+        "Link": ""
+    },
+    "Across a Midwest Sky": {
+        "Artist": "",
+        "Cover": "",
+        "Date": "",
+        "Rating": -1,
+        "Link": ""
+    },
+    "Foxfield Saint John": {
+        "Artist": "The Wildwoods",
+        "Cover": "https://f4.bcbits.com/img/a0953508917_2.jpg",
+        "Date": "2023",
+        "Rating": 100,
+        "Link": "https://thewildwoods.bandcamp.com/album/foxfield-saint-john"
+    },
+    "Nostalgia": {
+        "Artist": "Mother Mother",
+        "Cover": "https://t2.genius.com/unsafe/300x300/https%3A%2F%2Fimages.genius.com%2F7bd0b60700573c88dbc365126f6a64b0.1000x1000x1.png",
+        "Date": "2025",
+        "Rating": 68,
+        "Link": "https://open.spotify.com/album/2BLiShYVFio23DH6oxG9wy"
+    },
+    "Inside": {
+        "Artist": "",
+        "Cover": "",
+        "Date": "",
+        "Rating": -1,
+        "Link": ""
+    },
+    "Inside (Deluxe)": {
+        "Artist": "",
+        "Cover": "",
+        "Date": "",
+        "Rating": -1,
+        "Link": ""
+    },
+    "Grief Chapter": {
+        "Artist": "",
+        "Cover": "",
+        "Date": "",
+        "Rating": -1,
+        "Link": ""
+    },
+    "O My <3": {
+        "Artist": "",
+        "Cover": "",
+        "Date": "",
+        "Rating": -1,
+        "Link": ""
+    },
+    "Dance And Cry": {
+        "Artist": "",
+        "Cover": "",
+        "Date": "",
+        "Rating": -1,
+        "Link": ""
+    },
+    "No Culture": {
+        "Artist": "",
+        "Cover": "",
+        "Date": "",
+        "Rating": -1,
+        "Link": ""
+    },
+    "Touch Up": {
+        "Artist": "",
+        "Cover": "",
+        "Date": "",
+        "Rating": -1,
+        "Link": ""
+    },
+    "Very Good Bad Thing": {
+        "Artist": "",
+        "Cover": "",
+        "Date": "",
+        "Rating": -1,
+        "Link": ""
+    },
+    "Eureka": {
+        "Artist": "",
+        "Cover": "",
+        "Date": "",
+        "Rating": -1,
+        "Link": ""
+    },
+    "The Miseducation of Lauryn Hill": {
+        "Artist": "",
+        "Cover": "",
+        "Date": "",
+        "Rating": -1,
+        "Link": ""
+    },
+    "The Doors": {
+        "Artist": "",
+        "Cover": "",
+        "Date": "",
+        "Rating": -1,
+        "Link": ""
+    },
+    "From The Start": {
+        "Artist": "",
+        "Cover": "",
+        "Date": "",
+        "Rating": -1,
+        "Link": ""
+    },
+    "Dark Red": {
+        "Artist": "",
+        "Cover": "",
+        "Date": "",
+        "Rating": -1,
+        "Link": ""
+    },
+    "Marvin's Marvelous Mechanical Museum": {
+        "Artist": "",
+        "Cover": "",
+        "Date": "",
+        "Rating": -1,
+        "Link": ""
+    },
+    "The Secret To Life": {
+        "Artist": "",
+        "Cover": "",
+        "Date": "",
+        "Rating": -1,
+        "Link": ""
+    },
+    "The New Abnormal": {
+        "Artist": "",
+        "Cover": "",
+        "Date": "",
+        "Rating": -1,
+        "Link": ""
+    },
+    "are you okay?": {
+        "Artist": "",
+        "Cover": "",
+        "Date": "",
+        "Rating": -1,
+        "Link": ""
+    },
+    "Wallsocket": {
+        "Artist": "",
+        "Cover": "",
+        "Date": "",
+        "Rating": -1,
+        "Link": ""
+    },
+    "Wallsocket (Deluxe)": {
+        "Artist": "",
+        "Cover": "",
+        "Date": "",
+        "Rating": -1,
+        "Link": ""
+    },
+    "Twin Fantasy": {
+        "Artist": "",
+        "Cover": "",
+        "Date": "",
+        "Rating": -1,
+        "Link": ""
+    },
+    "Teens of Denial": {
+        "Artist": "",
+        "Cover": "",
+        "Date": "",
+        "Rating": -1,
+        "Link": ""
+    },
+    "Hand On The Torch": {
+        "Artist": "",
+        "Cover": "",
+        "Date": "",
+        "Rating": -1,
+        "Link": ""
+    },
+    "Songs In The Key Of Life": {
+        "Artist": "",
+        "Cover": "",
+        "Date": "",
+        "Rating": -1,
+        "Link": ""
+    },
+    "Waves": {
+        "Artist": "",
+        "Cover": "",
+        "Date": "",
+        "Rating": -1,
+        "Link": ""
+    },
+    "Starry Cat": {
+        "Artist": "",
+        "Cover": "",
+        "Date": "",
+        "Rating": -1,
+        "Link": ""
+    },
+    "Doolittle": {
+        "Artist": "",
+        "Cover": "",
+        "Date": "",
+        "Rating": -1,
+        "Link": ""
+    },
+    "Surfer Rosa": {
+        "Artist": "",
+        "Cover": "",
+        "Date": "",
+        "Rating": -1,
+        "Link": ""
+    },
+    "Summer's Over": {
+        "Artist": "",
+        "Cover": "",
+        "Date": "",
+        "Rating": -1,
+        "Link": ""
+    },
+    "Death of a Party Girl": {
+        "Artist": "",
+        "Cover": "",
+        "Date": "",
+        "Rating": -1,
+        "Link": ""
+    },
+    "Who Really Cares": {
+        "Artist": "",
+        "Cover": "",
+        "Date": "",
+        "Rating": -1,
+        "Link": ""
+    },
+    "French Exit": {
+        "Artist": "",
+        "Cover": "",
+        "Date": "",
+        "Rating": -1,
+        "Link": ""
+    },
+    "effective.Power": {
+        "Artist": "",
+        "Cover": "",
+        "Date": "",
+        "Rating": -1,
+        "Link": ""
+    },
+    "Foxlore": {
+        "Artist": "",
+        "Cover": "",
+        "Date": "",
+        "Rating": -1,
+        "Link": ""
+    },
+    "Spider in the Bowl": {
+        "Artist": "",
+        "Cover": "",
+        "Date": "",
+        "Rating": -1,
+        "Link": ""
+    },
+    "Rabbit Hearted.": {
+        "Artist": "",
+        "Cover": "",
+        "Date": "",
+        "Rating": -1,
+        "Link": ""
+    },
+    "Blood Bunny": {
+        "Artist": "",
+        "Cover": "",
+        "Date": "",
+        "Rating": -1,
+        "Link": ""
+    },
+    "Spirit Orb": {
+        "Artist": "",
+        "Cover": "",
+        "Date": "",
+        "Rating": -1,
+        "Link": ""
+    },
+    "Cavetown": {
+        "Artist": "",
+        "Cover": "",
+        "Date": "",
+        "Rating": -1,
+        "Link": ""
+    },
+    "When We Were Friends": {
+        "Artist": "",
+        "Cover": "",
+        "Date": "",
+        "Rating": -1,
+        "Link": ""
+    },
+    "Freakin' Out On The Interstate": {
+        "Artist": "",
+        "Cover": "",
+        "Date": "",
+        "Rating": -1,
+        "Link": ""
+    },
+    "Nothing Happens": {
+        "Artist": "",
+        "Cover": "",
+        "Date": "",
+        "Rating": -1,
+        "Link": ""
+    },
+    "Blasterpiece": {
+        "Artist": "",
+        "Cover": "",
+        "Date": "",
+        "Rating": -1,
+        "Link": ""
+    },
+    "Jiminy": {
+        "Artist": "",
+        "Cover": "",
+        "Date": "",
+        "Rating": -1,
+        "Link": ""
+    },
+    "Your Parents Are Only Marginally Disappointed in Your Musical Taste": {
+        "Artist": "",
+        "Cover": "",
+        "Date": "",
+        "Rating": -1,
+        "Link": ""
+    },
+    "Pale Machine": {
+        "Artist": "",
+        "Cover": "",
+        "Date": "",
+        "Rating": -1,
+        "Link": ""
+    },
+    "Cherry Bomb": {
+        "Artist": "",
+        "Cover": "",
+        "Date": "",
+        "Rating": -1,
+        "Link": ""
+    },
+    "Flower Boy": {
+        "Artist": "",
+        "Cover": "",
+        "Date": "",
+        "Rating": -1,
+        "Link": ""
+    },
+    "IGOR": {
+        "Artist": "",
+        "Cover": "",
+        "Date": "",
+        "Rating": -1,
+        "Link": ""
+    },
+    "CHROMAKOPIA": {
+        "Artist": "",
+        "Cover": "",
+        "Date": "",
+        "Rating": -1,
+        "Link": ""
+    },
+    "kill your friends": {
+        "Artist": "",
+        "Cover": "",
+        "Date": "",
+        "Rating": -1,
+        "Link": ""
+    },
+    "I Love My Computer": {
+        "Artist": "",
+        "Cover": "",
+        "Date": "",
+        "Rating": -1,
+        "Link": ""
+    },
+    "girl EDM": {
+        "Artist": "",
+        "Cover": "",
+        "Date": "",
+        "Rating": -1,
+        "Link": ""
+    },
+    "Now and Then": {
+        "Artist": "",
+        "Cover": "",
+        "Date": "",
+        "Rating": -1,
+        "Link": ""
+    },
+    "Hawaii: Part II": {
+        "Artist": "",
+        "Cover": "",
+        "Date": "",
+        "Rating": -1,
+        "Link": ""
+    },
+    "Evelyn Evelyn": {
+        "Artist": "",
+        "Cover": "",
+        "Date": "",
+        "Rating": -1,
+        "Link": ""
+    },
+    "I Can't Handle Change": {
+        "Artist": "",
+        "Cover": "",
+        "Date": "",
+        "Rating": -1,
+        "Link": ""
+    },
+    "Lincoln": {
+        "Artist": "",
+        "Cover": "",
+        "Date": "",
+        "Rating": -1,
+        "Link": ""
+    },
+    "VS4": {
+        "Artist": "",
+        "Cover": "",
+        "Date": "",
+        "Rating": -1,
+        "Link": ""
+    },
+    "Voyeur": {
+        "Artist": "",
+        "Cover": "",
+        "Date": "",
+        "Rating": -1,
+        "Link": ""
+    },
+    "My Type EP": {
+        "Artist": "",
+        "Cover": "",
+        "Date": "",
+        "Rating": -1,
+        "Link": ""
+    },
+    "THe Original Motion Picture Soundtrack": {
+        "Artist": "",
+        "Cover": "",
+        "Date": "",
+        "Rating": -1,
+        "Link": ""
+    },
+    "ForPlay": {
+        "Artist": "",
+        "Cover": "",
+        "Date": "",
+        "Rating": -1,
+        "Link": ""
+    },
+    "Death of a Bachelor": {
+        "Artist": "",
+        "Cover": "",
+        "Date": "",
+        "Rating": -1,
+        "Link": ""
+    },
+    "A Fever You Can't Sweat Out": {
+        "Artist": "",
+        "Cover": "",
+        "Date": "",
+        "Rating": -1,
+        "Link": ""
+    },
+    "The Golden Age": {
+        "Artist": "",
+        "Cover": "",
+        "Date": "",
+        "Rating": -1,
+        "Link": ""
+    },
+    "Run Boy Run": {
+        "Artist": "",
+        "Cover": "",
+        "Date": "",
+        "Rating": -1,
+        "Link": ""
+    },
+    "Iron": {
+        "Artist": "",
+        "Cover": "",
+        "Date": "",
+        "Rating": -1,
+        "Link": ""
+    },
+    "S16": {
+        "Artist": "",
+        "Cover": "",
+        "Date": "",
+        "Rating": -1,
+        "Link": ""
+    },
+    "Get Damaged": {
+        "Artist": "",
+        "Cover": "",
+        "Date": "",
+        "Rating": -1,
+        "Link": ""
+    },
+    "Get Awkward": {
+        "Artist": "",
+        "Cover": "",
+        "Date": "",
+        "Rating": -1,
+        "Link": ""
+    },
+    "Mommy": {
+        "Artist": "",
+        "Cover": "",
+        "Date": "",
+        "Rating": -1,
+        "Link": ""
+    },
+    "Damn Damn Leash": {
+        "Artist": "",
+        "Cover": "",
+        "Date": "",
+        "Rating": -1,
+        "Link": ""
+    },
+    "The Black Parade": {
+        "Artist": "",
+        "Cover": "",
+        "Date": "",
+        "Rating": -1,
+        "Link": ""
+    },
+    "Sorry, Mom": {
+        "Artist": "",
+        "Cover": "",
+        "Date": "",
+        "Rating": -1,
+        "Link": ""
+    },
+    "Solar Power": {
+        "Artist": "",
+        "Cover": "",
+        "Date": "",
+        "Rating": -1,
+        "Link": ""
+    },
+    "They Left Me With A Gun": {
+        "Artist": "",
+        "Cover": "",
+        "Date": "",
+        "Rating": -1,
+        "Link": ""
+    },
+    "They Left Me With The Sword": {
+        "Artist": "",
+        "Cover": "",
+        "Date": "",
+        "Rating": -1,
+        "Link": ""
+    },
+    "In the Aeroplane Over the Sea": {
+        "Artist": "",
+        "Cover": "",
+        "Date": "",
+        "Rating": -1,
+        "Link": ""
+    },
+    "Lost Weekend": {
+        "Artist": "",
+        "Cover": "",
+        "Date": "",
+        "Rating": -1,
+        "Link": ""
+    },
+    "Aligator Bites Never Heal": {
+        "Artist": "",
+        "Cover": "",
+        "Date": "",
+        "Rating": -1,
+        "Link": ""
+    },
+    "The Waltz of the Monsters": {
+        "Artist": "",
+        "Cover": "",
+        "Date": "",
+        "Rating": -1,
+        "Link": ""
+    },
+    "Sweeney Todd: The Demon Barber of Fleet Street": {
+        "Artist": "",
+        "Cover": "",
+        "Date": "",
+        "Rating": -1,
+        "Link": ""
+    },
+    "Caberet": {
+        "Artist": "",
+        "Cover": "",
+        "Date": "",
+        "Rating": -1,
+        "Link": ""
+    },
+    "Ride the Cyclone": {
+        "Artist": "",
+        "Cover": "",
+        "Date": "",
+        "Rating": -1,
+        "Link": ""
+    },
+    "The Music Man": {
+        "Artist": "",
+        "Cover": "",
+        "Date": "",
+        "Rating": -1,
+        "Link": ""
+    },
+    "Hadestown": {
+        "Artist": "",
+        "Cover": "",
+        "Date": "",
+        "Rating": -1,
+        "Link": ""
+    },
+    "Mean Girls": {
+        "Artist": "",
+        "Cover": "",
+        "Date": "",
+        "Rating": -1,
+        "Link": ""
+    },
+    "Heathers": {
+        "Artist": "",
+        "Cover": "",
+        "Date": "",
+        "Rating": -1,
+        "Link": ""
+    },
+    "Waitress": {
+        "Artist": "",
+        "Cover": "",
+        "Date": "",
+        "Rating": -1,
+        "Link": ""
+    },
+    "Beetlejuice": {
+        "Artist": "",
+        "Cover": "",
+        "Date": "",
+        "Rating": -1,
+        "Link": ""
+    },
+    "Wicked": {
+        "Artist": "",
+        "Cover": "",
+        "Date": "",
+        "Rating": -1,
+        "Link": ""
+    },
+    "Hairspray": {
+        "Artist": "",
+        "Cover": "",
+        "Date": "",
+        "Rating": -1,
+        "Link": ""
+    },
+    "Frozen": {
+        "Artist": "",
+        "Cover": "",
+        "Date": "",
+        "Rating": -1,
+        "Link": ""
+    },
+    "RENT": {
+        "Artist": "",
+        "Cover": "",
+        "Date": "",
+        "Rating": -1,
+        "Link": ""
+    },
+    "Tick Tick Boom": {
+        "Artist": "",
+        "Cover": "",
+        "Date": "",
+        "Rating": -1,
+        "Link": ""
+    },
+    "Shrek The Musical": {
+        "Artist": "",
+        "Cover": "",
+        "Date": "",
+        "Rating": -1,
+        "Link": ""
+    },
+    "Be More Chill": {
+        "Artist": "",
+        "Cover": "",
+        "Date": "",
+        "Rating": -1,
+        "Link": ""
+    },
+    "Hercules": {
+        "Artist": "",
+        "Cover": "",
+        "Date": "",
+        "Rating": -1,
+        "Link": ""
+    },
+    "Kronos / Rhea": {
+        "Artist": "",
+        "Cover": "",
+        "Date": "",
+        "Rating": -1,
+        "Link": ""
+    },
+    "STYKS": {
+        "Artist": "",
+        "Cover": "",
+        "Date": "",
+        "Rating": -1,
+        "Link": ""
+    },
+    "Annie": {
+        "Artist": "",
+        "Cover": "",
+        "Date": "",
+        "Rating": -1,
+        "Link": ""
+    },
+    "Dinosaurchestra": {
+        "Artist": "",
+        "Cover": "",
+        "Date": "",
+        "Rating": -1,
+        "Link": ""
+    },
+    "Spirit Phone": {
+        "Artist": "",
+        "Cover": "",
+        "Date": "",
+        "Rating": -1,
+        "Link": ""
+    },
+    "View-Monster": {
+        "Artist": "",
+        "Cover": "",
+        "Date": "",
+        "Rating": -1,
+        "Link": ""
+    },
+    "Nature Tapes": {
+        "Artist": "",
+        "Cover": "",
+        "Date": "",
+        "Rating": -1,
+        "Link": ""
+    },
+    "Hip to the Javabean": {
+        "Artist": "",
+        "Cover": "",
+        "Date": "",
+        "Rating": -1,
+        "Link": ""
+    },
+    "Damn Skippy": {
+        "Artist": "",
+        "Cover": "",
+        "Date": "",
+        "Rating": -1,
+        "Link": ""
+    },
+    "I Am Become Christmas": {
+        "Artist": "",
+        "Cover": "",
+        "Date": "",
+        "Rating": -1,
+        "Link": ""
+    },
+    "Cojum Dip": {
+        "Artist": "",
+        "Cover": "",
+        "Date": "",
+        "Rating": -1,
+        "Link": ""
+    },
+    "Stardust": {
+        "Artist": "",
+        "Cover": "",
+        "Date": "",
+        "Rating": -1,
+        "Link": ""
+    },
+    "SPEED RUN": {
+        "Artist": "",
+        "Cover": "",
+        "Date": "",
+        "Rating": -1,
+        "Link": ""
+    },
+    "SPIRAL": {
+        "Artist": "",
+        "Cover": "",
+        "Date": "",
+        "Rating": -1,
+        "Link": ""
+    },
+    "SWAGGOT!": {
+        "Artist": "",
+        "Cover": "",
+        "Date": "",
+        "Rating": -1,
+        "Link": ""
+    },
+    "BOMINATION!": {
+        "Artist": "",
+        "Cover": "",
+        "Date": "",
+        "Rating": -1,
+        "Link": ""
+    },
+    "MWAH!": {
+        "Artist": "",
+        "Cover": "",
+        "Date": "",
+        "Rating": -1,
+        "Link": ""
+    },
+    "From The Pyre": {
+        "Artist": "",
+        "Cover": "",
+        "Date": "",
+        "Rating": -1,
+        "Link": ""
+    },
+    "The War: Act II": {
+        "Artist": "",
+        "Cover": "",
+        "Date": "",
+        "Rating": -1,
+        "Link": ""
+    },
+    "The War: Act I": {
+        "Artist": "",
+        "Cover": "",
+        "Date": "",
+        "Rating": -1,
+        "Link": ""
+    },
+    "The War: Act III": {
+        "Artist": "",
+        "Cover": "",
+        "Date": "",
+        "Rating": -1,
+        "Link": ""
+    },
+    "Punisher": {
+        "Artist": "",
+        "Cover": "",
+        "Date": "",
+        "Rating": -1,
+        "Link": ""
+    },
+    "Prelude to War": {
+        "Artist": "",
+        "Cover": "",
+        "Date": "",
+        "Rating": -1,
+        "Link": ""
+    },
+    "Hazardous Bubble Basics": {
+        "Artist": "",
+        "Cover": "",
+        "Date": "",
+        "Rating": -1,
+        "Link": ""
+    },
+    "Milk Man": {
+        "Artist": "",
+        "Cover": "",
+        "Date": "",
+        "Rating": -1,
+        "Link": ""
+    },
+    "Good & Evil": {
+        "Artist": "",
+        "Cover": "",
+        "Date": "",
+        "Rating": -1,
+        "Link": ""
+    },
+    "MYTH: Side One": {
+        "Artist": "",
+        "Cover": "",
+        "Date": "",
+        "Rating": -1,
+        "Link": ""
+    },
+    "MYTH: Side Two": {
+        "Artist": "",
+        "Cover": "",
+        "Date": "",
+        "Rating": -1,
+        "Link": ""
+    },
+    "Depression Cherry": {
+        "Artist": "",
+        "Cover": "",
+        "Date": "",
+        "Rating": -1,
+        "Link": ""
+    },
+    "1 Trait High": {
+        "Artist": "",
+        "Cover": "",
+        "Date": "",
+        "Rating": -1,
+        "Link": ""
+    },
+    "1 Trait World Tour": {
+        "Artist": "",
+        "Cover": "",
+        "Date": "",
+        "Rating": -1,
+        "Link": ""
+    },
+    "1 Trait Bangers": {
+        "Artist": "",
+        "Cover": "",
+        "Date": "",
+        "Rating": -1,
+        "Link": ""
+    },
+    "Escape from 1 Trait": {
+        "Artist": "",
+        "Cover": "",
+        "Date": "",
+        "Rating": -1,
+        "Link": ""
+    },
+    "1 Trait University": {
+        "Artist": "",
+        "Cover": "",
+        "Date": "",
+        "Rating": -1,
+        "Link": ""
+    },
+    "Rubber Soul": {
+        "Artist": "",
+        "Cover": "",
+        "Date": "",
+        "Rating": -1,
+        "Link": ""
+    },
+    "Abbey Road": {
+        "Artist": "",
+        "Cover": "",
+        "Date": "",
+        "Rating": -1,
+        "Link": ""
+    },
+    "The Beatles": {
+        "Artist": "",
+        "Cover": "",
+        "Date": "",
+        "Rating": -1,
+        "Link": ""
+    },
+    "Help!": {
+        "Artist": "",
+        "Cover": "",
+        "Date": "",
+        "Rating": -1,
+        "Link": ""
+    },
+    "Magical Mystery Tour": {
+        "Artist": "",
+        "Cover": "",
+        "Date": "",
+        "Rating": -1,
+        "Link": ""
+    },
+    "Sgt. Peppers Lonely Heart's Club Band": {
+        "Artist": "",
+        "Cover": "",
+        "Date": "",
+        "Rating": -1,
+        "Link": ""
+    },
+    "Revolver": {
+        "Artist": "",
+        "Cover": "",
+        "Date": "",
+        "Rating": -1,
+        "Link": ""
+    },
+    "A Hard Day's Night": {
+        "Artist": "",
+        "Cover": "",
+        "Date": "",
+        "Rating": -1,
+        "Link": ""
+    },
+    "Oneknowing": {
+        "Artist": "",
+        "Cover": "",
+        "Date": "",
+        "Rating": -1,
+        "Link": ""
+    },
+    "Reknowing": {
+        "Artist": "",
+        "Cover": "",
+        "Date": "",
+        "Rating": -1,
+        "Link": ""
+    },
+    "Celeste (Original Soundtrack)": {
+        "Artist": "",
+        "Cover": "",
+        "Date": "",
+        "Rating": -1,
+        "Link": ""
+    },
+    "Minecraft Alpha": {
+        "Artist": "",
+        "Cover": "",
+        "Date": "",
+        "Rating": -1,
+        "Link": ""
+    },
+    "Minecraft Beta": {
+        "Artist": "",
+        "Cover": "",
+        "Date": "",
+        "Rating": -1,
+        "Link": ""
+    },
+    "I'm Not Here to Make Friends": {
+        "Artist": "",
+        "Cover": "",
+        "Date": "",
+        "Rating": -1,
+        "Link": ""
+    },
+    "Crumbling": {
+        "Artist": "",
+        "Cover": "",
+        "Date": "",
+        "Rating": -1,
+        "Link": ""
+    },
+    "The Rise and Fall of a Midwest Princess": {
+        "Artist": "",
+        "Cover": "",
+        "Date": "",
+        "Rating": -1,
+        "Link": ""
+    },
+    "Steven Universe, Vol. 1": {
+        "Artist": "",
+        "Cover": "",
+        "Date": "",
+        "Rating": -1,
+        "Link": ""
+    },
+    "Steven Universe, Vol. 2": {
+        "Artist": "",
+        "Cover": "",
+        "Date": "",
+        "Rating": -1,
+        "Link": ""
+    },
+    "Steven Universe The Movie": {
+        "Artist": "",
+        "Cover": "",
+        "Date": "",
+        "Rating": -1,
+        "Link": ""
+    },
+    "Steven Universe Future": {
+        "Artist": "",
+        "Cover": "",
+        "Date": "",
+        "Rating": -1,
+        "Link": ""
+    }
+}
