@@ -6,9 +6,39 @@ body {
     overflow: clip;
 }
 
+h1 {
+    text-align: center;
+    font-family: monospace;
+    margin: 0;
+}
+
 p {
     font-family: monospace;
     font-size: 16px;
+    margin: 0;
+}
+
+.page-button {
+    padding: 10px 0;
+    padding-right: 10px;
+}
+
+.page-button > div{
+    background-color: #397199;
+    margin-left: 20px; 
+    padding: 7px 20px;
+    text-align: right;
+}
+
+.page-button:hover {
+    padding-right: 0;
+    filter: drop-shadow(-5px 5px 4px #4444dd) hue-rotate(-30deg) brightness(150%) contrast(500%);
+}
+
+.page-button.disabled {
+    padding-right: 15px;
+    filter: brightness(50%);
+    pointer-events: none;
 }
 
 #topbar {
@@ -32,9 +62,25 @@ p {
 }
 
 #sidebar {
-    background-color: rgb(49, 47, 74);
     width: 500px;
     height: 100%;
+    position: relative;
+}
+
+#sidebar-background {
+    position: absolute;
+    inset: 0;
+    z-index: -1;
+    background-color: rgb(49, 47, 74);
+    width: 95%;
+    height: 100%;
+}
+
+#sidebar-contents {
+    padding-top: 10px;
+    position: absolute;
+    inset: 0;
+    z-index: 1;
 }
 
 #main {

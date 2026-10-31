@@ -29,12 +29,12 @@
 }
 
 .album:hover {
-    filter: none;
+    filter: contrast(200%);
 }
 
-.album {
+/* .album {
     filter: grayscale(100%) brightness(150%) contrast(500%) brightness(50%) blur(1px);
-}
+} */
 
 .album > h4 {
     text-align: center;
@@ -58,6 +58,7 @@
     border-style: solid;
     border-color: #e7e7e7;
     border-width: 7px;
+    filter: none;
 }
 
 .album > div {
